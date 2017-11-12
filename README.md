@@ -1,9 +1,3 @@
-# UNIDAD 2
-## INTRODUCCIÓN AL HTML
+*** No he entendido el concepto de CSS y como integrarlo en un documento HTML. Necesitaria ayuda mas personalizada si va a seguir el temario con programacion CSS...en caso de que no haya mas CSS no importa. Creo que deberia darse un poco mas de margen entre una entrega y otra.***
 
-En esta unidad nos centramos en la *base del HTML*. Como diseñar una pagina HTML. A continuación mostraré los enlaces necesarios para esta actividad:
-
-[Enlace de Rawgit](https://rawgit.com/AndresInfo/Andres-Unidad-2/master/Index.html)
-
-[Enlace de Github](https://github.com/AndresInfo/Andres-Unidad-2)
 
